@@ -1,4 +1,4 @@
 # Yo replica
-![img](https://i.imgur.com/5xVKdbo.png)
+![img](https://i.imgur.com/AepWPlU.png)
 # New feature
-![img](https://i.imgur.com/SmEsP7Z.png)
+![img](https://i.imgur.com/ilHpk3l.png)
